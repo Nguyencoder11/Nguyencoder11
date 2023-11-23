@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center"><img src="http://petxinh.weebly.com/uploads/1/3/1/7/131737961/09ba6dbf97bdb9c01eac30f08896b959.gif" width="50" height="50"</img>I'm NguyenLeviz</h1>
+<h1 align="center"><img src="http://petxinh.weebly.com/uploads/1/3/1/7/131737961/09ba6dbf97bdb9c01eac30f08896b959.gif" width="50" height="50"</img> I'm NguyenLeviz</h1>
 <h3 align="center">Learning Software Engineering in HaUI</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nguyencoder11&label=Profile%20views&color=0e75b6&style=flat" alt="nguyencoder11" /> </p>
