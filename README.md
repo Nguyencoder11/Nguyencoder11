@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=nguyencoder11&label=Profile%20views&color=0e75b6&style=flat" alt="nguyencoder11"/>
+  <img src="https://komarev.com/ghpvc/?username=Nguyencoder11&color=red" alt="nguyencoder11"/>
 </p>
 
 <h2 align="left">Connect with me:</h2>
