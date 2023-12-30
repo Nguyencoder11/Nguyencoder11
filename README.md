@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/nguyen-le-lenh-036a11264" target="blank"  style="text-decoration: none;">
+  <a href="https://linkedin.com/in/nguyen-le-lenh-036a11264" target="blank" style="text-decoration: none;">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nguyen-le-lenh-036a11264" height="30" width="40"/>
   </a>
   <a href="https://fb.com/nguyen.lenhnguyen.403" target="blank" style="text-decoration: none;">
