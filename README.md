@@ -21,9 +21,8 @@ Here are some ideas to get you started:
   I'm learning Software Engineering in HaUI
 </h3>
 <p align="center">
-  <img src="https://i.giphy.com/bGgsc5mWoryfgKBx1u.webp" width="60" height="60"/>
-  <img src="https://i.giphy.com/T95aM2u2ZGYftL8u1D.webp" width="60" height="60"/>  
-  <img src="https://media3.giphy.com/media/7AtHoQ9XWbpwLRxs0t/giphy.gif?cid=ecf05e47w1n3oyvpi9idvgmkqeg1ogyx4kxhx41qha3k4b8i&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="60" height="60"/>
+  <img src="https://media0.giphy.com/media/qEqiI3Oq7vBkoE236M/giphy.gif" width="200" height="50"/> 
+  <img src="https://i.giphy.com/X2qe4fKcyFBRYnvgcI.webp" width="100" height="100"/> 
 </p>
 
 <p align="left">
@@ -41,7 +40,8 @@ Here are some ideas to get you started:
 </p>
 
 <p>
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200" height="200"/>
+  <img src="https://i.giphy.com/zhYSVCirREeIZtONCI.webp" width="200" height="200"/>
+  <img src="https://media3.giphy.com/media/xBTSwCTFkgfcdTjHMz/giphy.gif?cid=ecf05e47x674uahdxa1dw9lc3haea4dx74wvssehpy1lossx&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="200" height="200"/>
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyencoder11&show_icons=true&theme=radical)
