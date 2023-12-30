@@ -33,7 +33,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-<p><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"  width="300" height="300"/></p>
+<p><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="300" height="300"/></p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyencoder11&show_icons=true&theme=radical)
 &nbsp;
