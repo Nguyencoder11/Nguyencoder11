@@ -17,7 +17,10 @@ Here are some ideas to get you started:
   I'm NguyenLeviz 
   <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50" height="50"/>
 </h1> 
-<h3 align="center">I'm learning Software Engineering in HaUI</h3>
+<h3 align="center">
+  I'm learning Software Engineering in HaUI
+  <img src="https://i.giphy.com/T95aM2u2ZGYftL8u1D.webp" width="50" height="50"/>
+</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=nguyencoder11&label=Profile%20views&color=0e75b6&style=flat" alt="nguyencoder11"/>
@@ -75,3 +78,4 @@ Here are some ideas to get you started:
     <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
   </a>
 </p>
+
