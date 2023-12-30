@@ -21,7 +21,9 @@ Here are some ideas to get you started:
   I'm learning Software Engineering in HaUI
 </h3>
 <p align="center">
-  <img src="https://i.giphy.com/T95aM2u2ZGYftL8u1D.webp" width="50" height="40"/>  
+  <img src="https://i.giphy.com/bGgsc5mWoryfgKBx1u.webp" width="60" height="60"/>
+  <img src="https://i.giphy.com/T95aM2u2ZGYftL8u1D.webp" width="60" height="60"/>  
+  <img src="https://media3.giphy.com/media/7AtHoQ9XWbpwLRxs0t/giphy.gif?cid=ecf05e47w1n3oyvpi9idvgmkqeg1ogyx4kxhx41qha3k4b8i&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="60" height="60"/>
 </p>
 
 <p align="left">
