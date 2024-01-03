@@ -46,12 +46,13 @@ Here are some ideas to get you started:
 <p>
   <img src="https://i.giphy.com/45HHL3LwcPfNRAihqx.webp" width="50" height="50"/>
   <img src="https://i.giphy.com/XCC4MCYvW2uHKCUkQJ.webp" width="50" height="50"/>
-  <img src="https://i.giphy.com/wzTA5VoNbiZDq.webp" width="80" height="80"/>
-  <img src="https://i.giphy.com/5PIE9RaHrHfUY.webp" width="80" height="80"/>
+
   <img src="https://i.giphy.com/13uNz6hqdlwxwc.webp" width="150" height="100"/>
   <img src="https://i.giphy.com/34IYTmnuoHlmM.webp" width="100" height="50"/>
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXQ2aGNnZGlpMDY3aWJpOTZmaHZsemI5aWE3amtpY3c4bm8wYTgxdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hiFmne9N9MxlS/giphy.gif" width="50" height="50"/>
   <img src="https://i.giphy.com/xqIGnIgH7HKFZXHm7E.webp" width="100" height="50"/>
+  <img src="https://i.giphy.com/wzTA5VoNbiZDq.webp" width="100" height="50"/>
+  <img src="https://i.giphy.com/5PIE9RaHrHfUY.webp" width="100" height="50"/>
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyencoder11&show_icons=true&theme=radical)
