@@ -83,5 +83,8 @@ Here are some ideas to get you started:
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer" style="text-decoration: none;">
     <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
   </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+  </a>
 </p>
 
