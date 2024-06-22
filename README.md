@@ -34,33 +34,6 @@ Here are some ideas to get you started:
   <img src="https://media3.giphy.com/media/xBTSwCTFkgfcdTjHMz/giphy.gif?cid=ecf05e47x674uahdxa1dw9lc3haea4dx74wvssehpy1lossx&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="200" height="200"/>
 </p>
 
-<h2 align="left">Connect me with</h2>
-<p align="left">
-  <a href="https://fb.com/nguyen.lenhnguyen.403" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nguyen.lenhnguyen.403" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/devops_1103" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devops_1103" height="30" width="40" />
-  </a>
-  <a href="https://dev.to/nguyencoder11" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="nguyencoder11" height="30" width="40" />     </a>
-  <a href="https://linkedin.com/in/nguyen-le-lenh-036a11264" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nguyen-le-lenh-036a11264" height="30" width="40" />
-  </a>
-  <a href="https://stackoverflow.com/users/22646567" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22646567" height="30" width="40" />
-  </a>
-  <a href="https://hashnode.com/leviz" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="leviz" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/lenhnguyen10a221" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="lenhnguyen10a221" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/nguyencoder11" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nguyencoder11" height="30" width="40" />
-  </a>
-</p>
-
 <h2 align="left">Commits Status</h2>
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyencoder11&show_icons=true&theme=radical)
@@ -118,3 +91,37 @@ Here are some ideas to get you started:
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
   </a>
 </p>
+
+<h2 align="left">Others</h2>
+<p align="left">
+  <a href="https://dev.to/nguyencoder11" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="nguyencoder11" height="30" width="40" />     
+  </a>
+  <a href="https://stackoverflow.com/users/22646567" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22646567" height="30" width="40" />
+  </a>
+  <a href="https://hashnode.com/leviz" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="leviz" height="30" width="40" />
+  </a>
+  <a href="https://www.hackerrank.com/lenhnguyen10a221" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="lenhnguyen10a221" height="30" width="40" />
+  </a>
+  <a href="https://www.leetcode.com/nguyencoder11" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nguyencoder11" height="30" width="40" />
+  </a>
+</p>
+
+<h2 align="left">Connect me with</h2>
+<p align="left">
+  <a href="https://fb.com/nguyen.lenhnguyen.403" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nguyen.lenhnguyen.403" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/devops_1103" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devops_1103" height="30" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/nguyen-le-lenh-036a11264" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nguyen-le-lenh-036a11264" height="30" width="40" />
+  </a>
+</p>
+
+
