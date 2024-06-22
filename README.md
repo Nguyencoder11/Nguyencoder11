@@ -29,7 +29,7 @@ Here are some ideas to get you started:
   <img src="https://komarev.com/ghpvc/?username=Nguyencoder11&color=red" alt="nguyencoder11"/>
 </p>
 
-<h2 align="left">Connect with me:</h2>
+<h2 align="left">Connect me with</h2>
 <p align="left">
   <a href="https://fb.com/nguyen.lenhnguyen.403" target="blank" style="text-decoration: none;">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nguyen.lenhnguyen.403" height="30" width="40"/>
@@ -43,7 +43,8 @@ Here are some ideas to get you started:
   <img src="https://i.giphy.com/zhYSVCirREeIZtONCI.webp" width="200" height="200"/>
   <img src="https://media3.giphy.com/media/xBTSwCTFkgfcdTjHMz/giphy.gif?cid=ecf05e47x674uahdxa1dw9lc3haea4dx74wvssehpy1lossx&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="200" height="200"/>
 </p>
-<h2 align="left">Status:</h2>
+<h2 align="left">Commits Status</h2>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyencoder11&show_icons=true&theme=radical)
 &nbsp;
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyencoder11&theme=radical)
@@ -51,7 +52,7 @@ Here are some ideas to get you started:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nguyencoder11&show_icons=true&locale=en&layout=compact" alt="nguyencoder11" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nguyencoder11&show_icons=true&locale=en" alt="nguyencoder11" /></p>
 -->
-<h2 align="left">Languages and Tools:</h2>
+<h2 align="left">Languages and Tools</h2>
 <p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
