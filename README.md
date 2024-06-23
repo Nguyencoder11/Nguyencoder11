@@ -119,14 +119,10 @@ Here are some ideas to get you started:
   <a href="https://linkedin.com/in/nguyen-le-lenh-036a11264" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nguyen-le-lenh-036a11264" height="30" width="40" />
   </a>
-  <a href="https://www.youtube.com/c/lệnh nguyên (leviz)" target="blank">
+  <!--<a href="https://www.youtube.com/@lenhnguyen1103" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="lệnh nguyên (leviz)" height="30" width="40" />
-  </a>
-  <a href="https://www.youtube.com/@lenhnguyen1103" target="_blank" rel="noreferrer"> 
-    <picture> 
-      <source media="(prefers-color-scheme: black)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" /> 
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> 
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /> 
-    </picture> 
+  </a>-->
+  <a href="https://www.youtube.com/channel/UCM87wqi6sqie-NWoQRytCqQ" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="lệnh nguyên (leviz)" height="30" width="40" />
   </a>
 </p>
