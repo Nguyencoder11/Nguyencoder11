@@ -2,31 +2,34 @@
 **Nguyencoder11/Nguyencoder11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Nguyencoder11&color=red" alt="nguyencoder11" height="24"/>
+</p>
+
 <h1 align="center">
   <img src="http://petxinh.weebly.com/uploads/1/3/1/7/131737961/09ba6dbf97bdb9c01eac30f08896b959.gif" width="50" height="50"/>
   I'm NguyenLeviz 
   <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50" height="50"/>
 </h1> 
+
 <h3 align="center">
   I'm learning Software Engineering in HaUI
 </h3>
+
+<p>- 🔭 I’m currently working on LinkedIn, Github, StackOverflow,...</p>
+<p>- 🌱 I’m currently learning JSP/Servlet, Spring Core, Spring Boot, Spring Data, JPA, Spring Security, Hibenetes, Design Pattern,...v.v</p>
+<p>- 👯 I’m looking to collaborate on Github, LinkedIn</p>
+<p>- 🤔 I’m looking for help with Spring, Java 8, Spring Boot 3</p>
+  
 <p align="center">
   <img src="https://media0.giphy.com/media/qEqiI3Oq7vBkoE236M/giphy.gif" width="200" height="50"/> 
   <img src="https://i.giphy.com/X2qe4fKcyFBRYnvgcI.webp" width="100" height="100"/> 
-</p>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Nguyencoder11&color=red" alt="nguyencoder11"/>
 </p>
 
 <p align="center">
