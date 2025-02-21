@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 -->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nguyencoder11&show_icons=true&locale=en&layout=compact" alt="nguyencoder11" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nguyencoder11&show_icons=true&locale=en" alt="nguyencoder11" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nguyencoder11&" alt="nguyencoder11" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nguyencoder11&" alt="nguyencoder11" /></p> -->
 <!--
 <a href="https://github.com/Nguyencoder11" align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nguyencoder11&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
