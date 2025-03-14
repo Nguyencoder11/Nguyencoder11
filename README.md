@@ -38,9 +38,9 @@ Here are some ideas to get you started:
   <a href="https://www.youtube.com/@lenhnguyen1103" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="lệnh nguyên (leviz)" height="30" width="40" />
   </a>
-  <a href="https://www.youtube.com/channel/UCM87wqi6sqie-NWoQRytCqQ" target="_blank">
+<!--   <a href="https://www.youtube.com/channel/UCM87wqi6sqie-NWoQRytCqQ" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="lệnh nguyên (leviz)" height="30" width="40" />
-  </a>
+  </a> -->
 </p>
 
 <p align="center">
@@ -52,27 +52,6 @@ Here are some ideas to get you started:
   <img src="https://i.giphy.com/zhYSVCirREeIZtONCI.webp" width="200" height="200"/>
   <img src="https://media3.giphy.com/media/xBTSwCTFkgfcdTjHMz/giphy.gif?cid=ecf05e47x674uahdxa1dw9lc3haea4dx74wvssehpy1lossx&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="200" height="200"/>
 </p>
-
-<h2 align="left">Commits Status</h2>
-<!--
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyencoder11&show_icons=true&theme=radical)
-&nbsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyencoder11&theme=radical)
--->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nguyencoder11&show_icons=true&locale=en&layout=compact" alt="nguyencoder11" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nguyencoder11&show_icons=true&locale=en" alt="nguyencoder11" /></p>
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nguyencoder11&" alt="nguyencoder11" /></p> -->
-<!--
-<a href="https://github.com/Nguyencoder11" align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nguyencoder11&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
-</a>
-<a href="http://www.github.com/Nguyencoder11">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nguyencoder11&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Nguyencoder11's GitHub stats" />
-</a>
-<a href="http://www.github.com/Nguyencoder11">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nguyencoder11&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-</a>
--->
 
 <h2 align="left">Languages and Tools</h2>
 <p align="left">
@@ -180,3 +159,23 @@ Here are some ideas to get you started:
   </a>
 </p>
 
+<h2 align="left">Commits Status</h2>
+<!--
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyencoder11&show_icons=true&theme=radical)
+&nbsp;
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyencoder11&theme=radical)
+-->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nguyencoder11&show_icons=true&locale=en&layout=compact" alt="nguyencoder11" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nguyencoder11&show_icons=true&locale=en" alt="nguyencoder11" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nguyencoder11&" alt="nguyencoder11" /></p> -->
+<!--
+<a href="https://github.com/Nguyencoder11" align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nguyencoder11&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+</a>
+<a href="http://www.github.com/Nguyencoder11">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nguyencoder11&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Nguyencoder11's GitHub stats" />
+</a>
+<a href="http://www.github.com/Nguyencoder11">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nguyencoder11&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+</a>
+-->
