@@ -26,7 +26,23 @@ Here are some ideas to get you started:
 <p>- 🌱 I’m currently learning JSP/Servlet, Spring Core, Spring Boot, Spring Data, JPA, Spring Security, Hibenetes, Design Pattern,...v.v</p>
 <p>- 👯 I’m looking to collaborate on Github, LinkedIn</p>
 <p>- 🤔 I’m looking for help with Spring, Java 8, Spring Boot 3</p>
-  
+
+<h2 align="left">Connect me with</h2>
+<p align="left">
+  <a href="https://fb.com/nguyen.lenhnguyen.403" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nguyen.lenhnguyen.403" height="30" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/nguyen-le-lenh-036a11264" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nguyen-le-lenh-036a11264" height="30" width="40" />
+  </a>
+  <a href="https://www.youtube.com/@lenhnguyen1103" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="lệnh nguyên (leviz)" height="30" width="40" />
+  </a>
+  <a href="https://www.youtube.com/channel/UCM87wqi6sqie-NWoQRytCqQ" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="lệnh nguyên (leviz)" height="30" width="40" />
+  </a>
+</p>
+
 <p align="center">
   <img src="https://media0.giphy.com/media/qEqiI3Oq7vBkoE236M/giphy.gif" width="200" height="50"/> 
   <img src="https://i.giphy.com/X2qe4fKcyFBRYnvgcI.webp" width="100" height="100"/> 
@@ -164,19 +180,3 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-
-<h2 align="left">Connect me with</h2>
-<p align="left">
-  <a href="https://fb.com/nguyen.lenhnguyen.403" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nguyen.lenhnguyen.403" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/nguyen-le-lenh-036a11264" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nguyen-le-lenh-036a11264" height="30" width="40" />
-  </a>
-  <!--<a href="https://www.youtube.com/@lenhnguyen1103" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="lệnh nguyên (leviz)" height="30" width="40" />
-  </a>-->
-  <a href="https://www.youtube.com/channel/UCM87wqi6sqie-NWoQRytCqQ" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="lệnh nguyên (leviz)" height="30" width="40" />
-  </a>
-</p>
