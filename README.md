@@ -108,8 +108,9 @@ Here are some ideas to get you started:
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
   </a>
-  
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
+
+  <!--
+   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
   </a> 
   <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> 
@@ -123,7 +124,8 @@ Here are some ideas to get you started:
   </a> 
   <a href="https://redis.io" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> 
-  </a> 
+  </a>
+  -->
   
   <a href="https://postman.com" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
@@ -140,6 +142,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
+<!--
 <h2 align="left">Others</h2>
 <p align="left">
   <a href="https://stackoverflow.com/users/22646567" target="blank">
@@ -158,6 +161,7 @@ Here are some ideas to get you started:
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="leviz" height="30" width="40" />
   </a>
 </p>
+-->
 
 <h2 align="left">Commits Status</h2>
 <!--
