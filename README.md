@@ -38,12 +38,6 @@ Here are some ideas to get you started:
   <a href="https://x.com/diayti311" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@diayti311" height="30" width="40" />
   </a>
-  <a href="https://www.youtube.com/@lenhnguyen1103" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="lệnh nguyên (leviz)" height="30" width="40" />
-  </a>
-<!--   <a href="https://www.youtube.com/channel/UCM87wqi6sqie-NWoQRytCqQ" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="lệnh nguyên (leviz)" height="30" width="40" />
-  </a> -->
 </p>
 
 <p align="center">
