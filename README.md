@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 
 <p>- 🔭 I’m currently working on LinkedIn, Github, StackOverflow,...</p>
 <p>- 👯 I’m looking to collaborate on Github, LinkedIn</p>
+<p>- 📫 How to reach me <a href="lenhnguyen10a22003@gmail.com">lenhnguyen10a22003@gmail.com</a></p>
 
 <h2 align="left">Connect me with</h2>
 <p align="left">
