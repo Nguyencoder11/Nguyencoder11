@@ -23,9 +23,7 @@ Here are some ideas to get you started:
 </h3>
 
 <p>- 🔭 I’m currently working on LinkedIn, Github, StackOverflow,...</p>
-<p>- 🌱 I’m currently learning Spring Core, Spring Boot, Spring Data JPA, Spring Security, Hibenetes, Design Pattern,...v.v</p>
 <p>- 👯 I’m looking to collaborate on Github, LinkedIn</p>
-<p>- 🤔 I’m looking for help with Spring, Java 8, Spring Boot 3</p>
 
 <h2 align="left">Connect me with</h2>
 <p align="left">
