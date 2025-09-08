@@ -22,8 +22,8 @@ Here are some ideas to get you started:
   I'm learning Software Engineering in HaUI
 </h3>
 
-<p>- 🔭 I’m currently working on LinkedIn, Github, StackOverflow,...</p>
-<p>- 👯 I’m looking to collaborate on Github, LinkedIn</p>
+<p>- 🔭 I’m currently working on LinkedIn, Github, GitLab, StackOverflow,...</p>
+<p>- 👯 I’m looking to collaborate on Github, GitLab, LinkedIn</p>
 
 <h2 align="left">Connect me with</h2>
 <p align="left">
