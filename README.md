@@ -33,7 +33,7 @@ Here are some ideas to get you started:
   <a href="https://fb.com/nguyen.lenhnguyen.403" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nguyen.lenhnguyen.403" height="30" width="40" />
   </a>
-  <a href="https://x.com/diayti311" target="blank">
+  <a href="https://x.com/diayti311" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@diayti311" height="30" width="40" />
   </a>
 </p>
