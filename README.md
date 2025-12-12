@@ -19,11 +19,18 @@ Here are some ideas to get you started:
 </h1> 
 
 <h3 align="center">
-  I'm learning Software Engineering in HaUI
+  I'm a Java developer from Vietnam
 </h3>
 
-<p>- 🔭 I’m currently working on LinkedIn, Github, GitLab, StackOverflow,...</p>
-<p>- 👯 I’m looking to collaborate on Github, GitLab, LinkedIn</p>
+<p>- 🔭 I’m currently working on ... </p>
+<p>- 👯 I’m looking to collaborate on Facebook, LinkedIn</p>
+<p>- 🤝 I’m looking for help with ... </p>
+<p>- 🌱 I’m currently learning: Spring Boot, DDD, Microservices, ReactJS, UI/UX</p>
+<p>- 👨‍💻 All of my projects are available at ... </p>
+<p>- 💬 Ask me about ... </p>
+<p>- 📫 How to reach me ... </p>
+<p>- 📄 Know about my experiences ... </p>
+<p>- ⚡ Fun fact ... </p>
 
 <h2 align="left">Connect me with</h2>
 <p align="left">
@@ -159,16 +166,16 @@ Here are some ideas to get you started:
 -->
 
 <h2 align="left">Commits Status</h2>
-<!--
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyencoder11&show_icons=true&theme=radical)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyencoder11&show_icons=true&theme=radical)
 &nbsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyencoder11&theme=radical)
--->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nguyencoder11&show_icons=true&locale=en&layout=compact" alt="nguyencoder11" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nguyencoder11&show_icons=true&locale=en" alt="nguyencoder11" /></p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyencoder11&theme=radical) -->
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nguyencoder11&show_icons=true&locale=en&layout=compact" alt="nguyencoder11" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nguyencoder11&show_icons=true&locale=en" alt="nguyencoder11" /></p> -->
+
+
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nguyencoder11&" alt="nguyencoder11" /></p> -->
-<!--
-<a href="https://github.com/Nguyencoder11" align="left">
+
+<!-- <a href="https://github.com/Nguyencoder11" align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nguyencoder11&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
 </a>
 <a href="http://www.github.com/Nguyencoder11">
@@ -176,5 +183,4 @@ Here are some ideas to get you started:
 </a>
 <a href="http://www.github.com/Nguyencoder11">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nguyencoder11&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-</a>
--->
+</a> -->
